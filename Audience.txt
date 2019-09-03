@@ -1,0 +1,3 @@
+Primary: The kid/student who wants to learn how to read.
+Secondary: Teachers and Parents.
+
