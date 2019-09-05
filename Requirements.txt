@@ -3,6 +3,7 @@ Functional:
 	-> Be able to use magical brail screen for those who are blind.
 	-> Be able to display incorrect pronunciations of words.
 	-> Be able to select words and define them.
+	-> Have adult controls secured by a pin, allowing adults to change settings.
 Non-Functional:
 	-> Be maintainable.
 	-> Follow American Dissability Act.
