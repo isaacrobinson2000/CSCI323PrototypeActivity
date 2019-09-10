@@ -1,9 +1,9 @@
-You are Jim, a 33 year old parent, you have recently installed the StoryBooks from the app store,
+You are Jim, a 33 year old parent, you have recently installed StoryBooks from the app store,
 and you want to setup the app for your child, Sally, who is 3... 
 
 Tasks:
 
-1.) Login into the book app.
-2.) Setup a pin to secure your account from Sally (We don't want Sally to read 2-year old books!). 
-3.) Select the age of of Sally for reading books. 
+1.) Login to the book app.
+2.) Setup a pin to secure your account from Sally (We don't want Sally to read 10-year old books!). 
+3.) Select the age of Sally for reading books. 
 4.) Hand over the tablet to Sally....
