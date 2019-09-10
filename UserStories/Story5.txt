@@ -1,0 +1,25 @@
+story
+
+You are a 9 year old. Your parent has logged into the program and select the appropriate age group. You are presented with the book selection screen.
+
+1. pick a book
+
+you are presented with the first page of the book. you want the book to read to you first.
+
+2. select the read to me button and listen to the book.
+
+you now want to read the book. 
+
+3. select read to book button.
+
+you think you have made some reading errors and want to review.
+
+4. select correct my mistakes 
+
+you have finished the book and want to go back to the book selection screen.
+
+5. go back to the book selection screen
+
+you find another book you want to read and select it.
+
+6. repeat steps 2-4
