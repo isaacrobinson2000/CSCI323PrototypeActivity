@@ -1,0 +1,10 @@
+Test 50323049509039: Book Selection.
+
+Input:
+  User selects book in list.
+
+Test:
+  Did the user click the button?
+
+Output:
+  The books content, on screen...
