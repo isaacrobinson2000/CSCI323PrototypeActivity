@@ -1,12 +1,13 @@
 Functional:
-	-> Be able to add and remove books.
+	-> Be able to select from multiple age groups
+	-> Be able to select different books available for that age group
 	-> Be able to use magical brail screen for those who are blind.
+	-> Be able to be read too and then read back to.
 	-> Be able to display incorrect pronunciations of words.
-	-> Be able to select words and define them.
-	-> Have adult controls secured by a pin, allowing adults to change settings.
+	-> Have adult controls secured by a username and password, allowing adults to change settings.
 Non-Functional:
 	-> Be maintainable.
-	-> Follow American Dissability Act.
+	-> Follow American Disability Act.
 	-> IEP
 	-> Keep attention (Especially with kids with ADD)
 	-> Lock kid out of the rest of the operating system
