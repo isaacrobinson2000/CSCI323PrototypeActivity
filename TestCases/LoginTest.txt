@@ -1,0 +1,15 @@
+Test 3: Login Checking...
+
+Input:
+    1. A username, being a string.
+    2. A password, a string.
+
+Tests:
+    1. Username is at least 8 chars.
+    2. Password is at least 8 chars. 
+    3. Password contains 1 uppercase char(A-Z), and one special char or emoji. 
+    4. User does not match another username in global database. 
+    5. Password should be hashed with seed for security purposes...
+
+Output:
+    1. A boolean, True if new account was created for the user, False if magic happens....
