@@ -6,5 +6,6 @@ Test 1: Word Checking
 	
 	Tests:
 		1. Test for spoken word matching next written word.
+		
 	Output:
 		Highlight written word green if spoken word matches written word, or red if does not match.
