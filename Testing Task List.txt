@@ -1,6 +1,11 @@
 Task List
 --------------------------
-1. Choose your age group (difficulty).
+SETUP(Parents):
+1. Create an account.
+2. Choose your age group (difficulty).
+
+USAGE(Kid): 
+1. Select book to read.
 2. Listen to the software read the paragraph.
 3. Read the paragraph back to the software.
 4. Re-read the paragraph and fix highlighted mistakes
