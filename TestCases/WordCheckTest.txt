@@ -2,8 +2,9 @@ Test 1: Word Checking
 
 	Input:
 		1. Word is spoken to the program.
+		2. Next written word to be spoken.
 	
 	Tests:
 		1. Test for spoken word matching next written word.
 	Output:
-		Highlight written word green if spoken word is correct, or red if incorrect.
+		Highlight written word green if spoken word matches written word, or red if does not match.
