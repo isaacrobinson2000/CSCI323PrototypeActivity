@@ -1,0 +1,9 @@
+Test 1: Word Checking
+
+	Input:
+		1. Word is spoken to the program.
+	
+	Tests:
+		1. Test for spoken word matching next written word.
+	Output:
+		Highlight written word green if spoken word is correct, or red if incorrect.
